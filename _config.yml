@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pavan Padubidri"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Highly dedicated and self-motivated Masters in Mathematics student at New York University with work experience in AI/ML"
   location         : "New York"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/pavanpadubidri/"
+  linkedin         : "pavanpadubidri"
   orcid            : 
   pinterest        :
   soundcloud       :

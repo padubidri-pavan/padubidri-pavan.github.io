@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 Hi, I am Pavan Padubidri! 😃
 
 I am a graduate student at New York University. I am currently located in New Jersey. My areas of interest are NLP, ML/DL and AI.
