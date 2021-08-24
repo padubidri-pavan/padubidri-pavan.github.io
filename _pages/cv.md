@@ -11,49 +11,62 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Science in Mathematics, New York University, 2022
+* Master of Technology in Industrial Automation & Robotics, Manipal Institute of Technology, 2017
+* Bachelor of Engineering in Mechanical Engineering, Visvesaraya Technological University, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021 : Machine Learning Intern at Infrrd
+  * Responsible for devloping automated document image clustering algorithm
+  * Devloped and tested various online classifiers for NER classification using few shot learning
+  * Developed Data preprocessing pipeline for Intelligent Document Processing reserach team
+  * Worked with Amazon Elastic Inference for deploying GPU demanding ML applications
+  * Devloped ML microservices for ML based web applications
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2020 - December 2021: Recitation Leader and Grader at New Yok University
+  * Conducting recitation for undergrad students and holding office hours to help students
+  * Evaluating assignments of undergrad students.
+
+* July 2017 - July 2020: Systems Engineer at ModeliCon InfoTech LLP
+  * Experience with Big Data: Processed, filtered and transformed large amounts of high dimensional data from Pipesim simulation software to the Machine Learning model
+  * Mathematical Model development of system under study
+  * Library architecture design and development, project documentation and proposal drafting
+  * UI and model integration and model verification; experience with SQL and NoSQL databases like MySQL and MongoDB
+  * Experience with agile software development life cycle - requirement analysis, development, deployment
+  * Backend development (Node, python) using microservice architecture, REST APIs
+  * Full Stack web application development (ReactJS, HTML, Javascript, SQL)
+
+* September 2015 - May 2016 : Teaching Assistant at Manipal Institute of Technology
+  * Helping below average performing students in studies by giving personal attention.
+  * Evaluating assignments of undergrad students.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Machine Learning/ Artificial Intelligence
+* Deep Learning
+* NLP
+* JavaScript
+* MLOps
+  
+Workshops
+======
+2017-2020: Conducted Workshops on Mathematical Modeling for faculty/students
+* Faculty development Programme - Multidomain System Modelling and Simulation using Modelica at BMSCE, Bangalore and ASIET Cochin.
+* Digital Twins Workshop for students - BMSCE, Bangalore, ASIET Cochin, RIT, Bangalore.
 
-Publications
+Publication
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* May 2016 : A study on the effect of varying injection pressure on the performance and emission characteristics of C.I. engine using a mixture of Honge and Neem oil methyl ester as fuel, Jnana Sangama, National Level Conference
+
+
+Organizations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* May 2021 - May 2022: NYU Tandon Unibuddy Ambassador
+* Januarry 2021 - present: Graduate Student Member at Society for Industrial and Applied Mathematics
+* December 2018 – Present: Individual Member at Open Source Modelica Consortium
+* July 2018 - July 2019 : Assistant Treasurer and Webmaster at International Society of Automation (ISA) at Bangalore section
+  * Responsible for tracking the cash flow in the organization and maintaining the website.
+  * Organized Modelica Users’ Meet India - 2018 at IISc Bangalore.
+  Responsible for procuring Sponsorship, Inviting Speakers, Marketing, Social Media Presence, Coordinating with volunteers.
