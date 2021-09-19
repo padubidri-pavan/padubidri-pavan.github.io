@@ -19,11 +19,12 @@ Education
 Work experience
 ======
 * Summer 2021 : Machine Learning Intern at Infrrd
-  * Responsible for developing automated document image clustering algorithm
-  * Developed and tested various online classifiers for NER classification
-  * Developed Data preprocessing pipeline for Intelligent Document Processing research team
-  * Worked with Amazon Elastic Inference for deploying GPU demanding ML applications
-  * Developed ML microservices for ML based web applications
+  * Responsible for the development of automated document image clustering using pre-trained transformer models for document embedding and implemented an algorithm to group documents based on similarity of feature vectors.
+  * Developed and tested various online classifiers for NER classification. Documented various classification techniques and benchmarked the performance of various datasets. Performed error analysis on the results to understand which NER tags perform better.
+  * Developed Data preprocessing pipeline for Intelligent Document Processing research team which involved fetching data from Elasticsearch, extracting relevant information, pre-processing the text and converting the dataset to the format used for few shot learning. Clustered the dataset based on visual and structural similarity and split the dataset into train-test-validation for each cluster for the further stages of few shot learning.
+  * Worked with Amazon Elastic Inference for deploying GPU demanding ML applications using a RoBERTa model embedding
+  * Developed ML microservices and RESTful APIs for ML based web applications to cluster the documents.
+
 
 * September 2020 - December 2021: Recitation Leader and Grader at New Yok University
   * Conducting recitation for undergrad students and holding office hours to help students
